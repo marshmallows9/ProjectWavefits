@@ -14,8 +14,6 @@ import com.github.javafaker.Faker;
 public class wavefits {
 
 
-
-
     public static void main(String[] args) throws InterruptedException{
         System.setProperty("webdriver.chrome.driver", "/Users/Shared/Jenkins/Home/workspace/WavefitsAutomation/chromedriver");
         WebDriver dr = new ChromeDriver();
